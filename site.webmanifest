@@ -1,0 +1,23 @@
+{
+    "name": "rumahartikel.web.id",
+    "short_name": "Rumah_Artikel",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0ocvK9rm8KwMmncnkAPZhSNfq0Wcg2Y4p6AUufMxwADBQD4jjOIMknlplxH53hTFbEm6k6El_yLDKEXNgz4-y80TAMobQo4zp-ZKj4_5Ujn0zmQEJdZfjEDjW_tB1NRZ-h8Pqf759EnygW6vGpeag9SN2DX9qZL9GLj84aWzqn5td9SL1CLDCx50m/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyEVEiPRYltrQA3GUvcBbtC9EevXHGnGx2YkGW4asWBUJwN1UMcwBxtWdJuhtDtInXnIf53pXRoJ86CKVGiskG4G9QJzTzm86yYXsUKPukHhYgFG1w7E1BIch5ZqEawxWgJYecA1V4p9Vz3wVfxUC7ceAXdc_S7qI0ZYXc0d8DasXiOluyqhB2uM66/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.rumahartikel.web.id"
+}
